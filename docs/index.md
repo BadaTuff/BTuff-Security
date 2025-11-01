@@ -28,11 +28,11 @@ Hey! I'm **Muhiz "BTuff" Bada**, and I'm documenting my journey from student to 
 The journey officially begins next week! Week 01 will cover:
 
 - OSCP methodology and initial labs
-- BTL1 fundamentals and detection concepts
+- Starting BTL1 Certficate - fundamentals and detection concepts
 - Setting up my learning environment
 - First practical examples and runbooks
 
-**Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) to follow along with video demonstrations!**
+**Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) to follow along with video demonstrations & more on the week!**
 
 ---
 
@@ -64,14 +64,14 @@ I document everything - successes and failures. If I struggle with a concept, yo
 - **Currently Pursuing**: OSCP + BTL1 simultaneously
 - **Goal**: SOC/Blue-Team Analyst role
 
-[Read more about me →](/about/)
+[Read more about me →](/BTuff-Security/about/)
 
 ---
 
 ## Follow the Journey
 
 - **YouTube**: [6 Months to SOC](https://www.youtube.com/@BTuffSecurity) - Video walkthroughs and demonstrations
-- **GitHub**: [Raw Notes & Code](https://github.com/BadaTuff/BTuff-Security) - All source materials and scripts
+- **GitHub**: [Raw Notes & Code](https://github.com/[your-username]/BTuff-Security) - All source materials and scripts
 - **Weekly Letters**: Check back every week for new content
 
 ---
