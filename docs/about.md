@@ -7,6 +7,8 @@ permalink: /about/
 
 # About Me
 
+<img src="/BTuff-Security/assets/images/profile.jpg" alt="Muhiz BTuff Bada" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; display: block; margin: 20px auto;">
+
 ## Muhiz "BTuff" Bada
 
 Blue-Team focused security analyst in training.
@@ -52,9 +54,9 @@ This site documents my weekly learning journey through OSCP and BTL1 certificati
 ## Contact & Connect
 
 - **YouTube**: [youtube.com/@BTuffSecurity](https://www.youtube.com/@BTuffSecurity)
-- **GitHub**: [github.com/[your-username]/BTuff-Security](https://github.com/[your-username]/BTuff-Security)
-- **Email**: [your-email@example.com]
+- **GitHub**: [github.com/BadaTuff/BTuff-Security](https://github.com/BadaTuff/BTuff-Security)
+- **Email**: Badatuff9048@gmail.com
 
 ---
 
-*Last updated: October 2024*
+*Last updated: October 2025*

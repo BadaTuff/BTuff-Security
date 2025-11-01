@@ -19,7 +19,7 @@ BTuff-Security/
 
 ## 🌐 Live Site
 
-Visit the site: **[btuff-security.github.io](https://[your-username].github.io/BTuff-Security)** (Coming November 2024)
+Visit the site: **[badatuff.github.io/BTuff-Security](https://badatuff.github.io/BTuff-Security)** (Coming November 2025)
 
 ## 📝 What's Inside
 
@@ -51,10 +51,10 @@ Every week I publish practical security work that demonstrates:
 ## 🔗 Connect
 
 - **YouTube**: [6 Months to SOC](https://www.youtube.com/@BTuffSecurity) - Video walkthroughs and demonstrations
-- **Site**: [BTuff Security](https://[your-username].github.io/BTuff-Security) - Weekly letters and portfolio
+- **Site**: [BTuff Security](https://badatuff.github.io/BTuff-Security) - Weekly letters and portfolio
 
 ---
 
 **Evidence over polish. Learning in public. Building proof of capability.**
 
-*By Muhiz "BTuff" Bada | Starting November 2024*
+*By Muhiz "BTuff" Bada | Starting November 2025*

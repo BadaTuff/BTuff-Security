@@ -23,7 +23,7 @@ Hey! I'm **Muhiz "BTuff" Bada**, and I'm documenting my journey from student to 
 
 ## Latest Weekly Letter
 
-### Coming Soon: Week 01 (November 2024)
+### Coming Soon: Week 01 (November 2025)
 
 The journey officially begins next week! Week 01 will cover:
 
@@ -71,7 +71,7 @@ I document everything - successes and failures. If I struggle with a concept, yo
 ## Follow the Journey
 
 - **YouTube**: [6 Months to SOC](https://www.youtube.com/@BTuffSecurity) - Video walkthroughs and demonstrations
-- **GitHub**: [Raw Notes & Code](https://github.com/[your-username]/BTuff-Security) - All source materials and scripts
+- **GitHub**: [Raw Notes & Code](https://github.com/BadaTuff/BTuff-Security) - All source materials and scripts
 - **Weekly Letters**: Check back every week for new content
 
 ---
@@ -90,8 +90,8 @@ In cybersecurity, demonstrating capability matters more than perfect presentatio
 
 *Ready to prove that breaking into cybersecurity is 100% possible? Let's do this.*
 
-**[Start with Week 01 →](/letters/)** (Coming November 2024)
+**[Start with Week 01 →](/letters/)** (Coming November 2025)
 
 ---
 
-<small>Last updated: October 31, 2024</small>
+<small>Last updated: October 31, 2025</small>

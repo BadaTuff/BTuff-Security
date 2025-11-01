@@ -1,7 +1,7 @@
 title: BTuff Security
 description: Weekly OSCP + BTL1 study-in-public. Evidence over polish - letters, runbooks, detections, scripts, and real-world security work.
 baseurl: "/BTuff-Security"
-url: "https://[your-github-username].github.io"
+url: "https://badatuff.github.io"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs@v0.8.2
@@ -27,7 +27,7 @@ search:
 heading_anchors: true
 
 # Footer
-footer_content: "Made with persistence by BTuff | <a href=\"https://www.youtube.com/@BTuffSecurity\">YouTube</a> | <a href=\"https://github.com/[your-github-username]/BTuff-Security\">GitHub</a>"
+footer_content: "Made with persistence by BTuff | <a href=\"https://www.youtube.com/@BTuffSecurity\">YouTube</a> | <a href=\"https://github.com/BadaTuff/BTuff-Security\">GitHub</a>"
 
 # Back to top link
 back_to_top: true
@@ -41,7 +41,7 @@ aux_links:
   "YouTube Channel":
     - "https://www.youtube.com/@BTuffSecurity"
   "GitHub Repo":
-    - "//github.com/[your-github-username]/BTuff-Security"
+    - "//github.com/BadaTuff/BTuff-Security"
 
 aux_links_new_tab: true
 

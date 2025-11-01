@@ -27,7 +27,7 @@ Letters are organized from newest to oldest. Each represents one week of focused
 
 ## Coming Soon
 
-**Week 01** launches in November 2024! Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) to get notified.
+**Week 01** launches in November 2025! Subscribe on [YouTube](https://www.youtube.com/@BTuffSecurity) to get notified.
 
 ---
 
@@ -42,4 +42,4 @@ The format combines blog-style reflection with technical tutorial content, showi
 
 ---
 
-*Check back weekly for new content starting November 2024!*
+*Check back weekly for new content starting November 2025!*
