@@ -1,5 +1,72 @@
 title: BTuff Security
-description: Weekly OSCP + BTL1 progress, Home-SOC artifacts, and notes.
-theme: jekyll-theme-cayman
+description: Weekly OSCP + BTL1 study-in-public. Evidence over polish - letters, runbooks, detections, scripts, and real-world security work.
+baseurl: "/BTuff-Security"
+url: "https://[your-github-username].github.io"
+
+# Theme
+remote_theme: just-the-docs/just-the-docs@v0.8.2
+
+# Color scheme
+color_scheme: dark
+
+# Logo/Brand
+logo: "/assets/images/logo.png"
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Heading anchor links
+heading_anchors: true
+
+# Footer
+footer_content: "Made with persistence by BTuff | <a href=\"https://www.youtube.com/@BTuffSecurity\">YouTube</a> | <a href=\"https://github.com/[your-github-username]/BTuff-Security\">GitHub</a>"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Navigation
+nav_sort: desc
+
+# Aux links (top right)
+aux_links:
+  "YouTube Channel":
+    - "https://www.youtube.com/@BTuffSecurity"
+  "GitHub Repo":
+    - "//github.com/[your-github-username]/BTuff-Security"
+
+aux_links_new_tab: true
+
+# Collections for weekly letters
+collections:
+  letters:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "letters"
+    values:
+      layout: "default"
+      nav_exclude: false
+
+# Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
