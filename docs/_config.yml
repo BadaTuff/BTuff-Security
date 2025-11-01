@@ -1,0 +1,5 @@
+title: BTuff Security
+description: Weekly OSCP + BTL1 progress, Home-SOC artifacts, and notes.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
