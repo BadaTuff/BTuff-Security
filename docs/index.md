@@ -1,7 +1,8 @@
-# BTuff Security — Weekly Progress
-
-Welcome! I’m documenting my journey to Blue Team analyst.
+# Weekly Letters!
+Hey, welcome to my journey learning cybersecurity in public!
 
 - **Weekly Log:** [/weekly/](./weekly/)
-- **Projects:** [/projects/](./projects/)
+  - My weekly letters teaching and sharing what I'm learning week by week!
 - **About:** [/about/](./about/)
+  - Who I am!
+
