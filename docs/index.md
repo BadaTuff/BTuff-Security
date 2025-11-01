@@ -70,8 +70,9 @@ I document everything - successes and failures. If I struggle with a concept, yo
 
 ## Follow the Journey
 
+- **LinkedIn**: [Muhiz Bada](https://www.linkedin.com/in/muhiz-bada-99646325b/) - Connect and follow my professional journey
 - **YouTube**: [6 Months to SOC](https://www.youtube.com/@BTuffSecurity) - Video walkthroughs and demonstrations
-- **GitHub**: [Raw Notes & Code](https://github.com/[your-username]/BTuff-Security) - All source materials and scripts
+- **GitHub**: [Raw Notes & Code](https://github.com/BadaTuff/BTuff-Security) - All source materials and scripts
 - **Weekly Letters**: Check back every week for new content
 
 ---

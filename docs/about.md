@@ -53,6 +53,7 @@ This site documents my weekly learning journey through OSCP and BTL1 certificati
 
 ## Contact & Connect
 
+- **LinkedIn**: [linkedin.com/in/muhiz-bada](https://www.linkedin.com/in/muhiz-bada-99646325b/)
 - **YouTube**: [youtube.com/@BTuffSecurity](https://www.youtube.com/@BTuffSecurity)
 - **GitHub**: [github.com/BadaTuff/BTuff-Security](https://github.com/BadaTuff/BTuff-Security)
 - **Email**: Badatuff9048@gmail.com
